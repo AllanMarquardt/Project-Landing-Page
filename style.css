@@ -82,7 +82,7 @@ nav ul li a{
     border-radius: 20px;
 }
 
-/* Second Section */
+/* Section 2 */
 
 .section2{
     padding: 50px 250px 150px 250px;
@@ -119,7 +119,7 @@ nav ul li a{
     margin-bottom: 10px;
 }
 
-/* Third Section */
+/* Section 3 */
 
 .section3{
     padding: 100px 250px 100px 250px;
@@ -147,4 +147,25 @@ nav ul li a{
     font-weight: bold;
     align-self: flex-end;
     font-size: 24px;
+}
+
+/* Section 4 */
+
+.section4{
+    padding: 120px 250px; 
+    color: #F9FAF8;
+    font-size: 18px;
+}
+
+.call-action{
+    background-color: #3882F6;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 150px;
+}
+
+.call-action .btn{
+    border: 2px solid #fff;
 }
